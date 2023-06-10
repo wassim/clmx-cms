@@ -4,7 +4,7 @@ This example deploys a self-hosted version of [Directus](https://directus.io).
 
 Internally it uses an external PostgreSQL database (Supabase) to store the data and S3 to store files.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/directus-supabase?referralCode=wassim)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/dlfT2F?referralCode=wassim)
 
 ## ✨ Features
 
